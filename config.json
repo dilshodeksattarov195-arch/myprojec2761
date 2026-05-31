@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchealidate",
+        "uuid": 6510438,
+        "checksum": "0mvw6p"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
